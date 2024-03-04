@@ -10,6 +10,10 @@
   </p>
 </div>
 
+## Requirements
+
+Java 17 or later, Windows OS, DMX to USB cable (obviously?)
+
 ## Installing
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Download](https://github.com/NonzeroCornet/DMX4All/releases/tag/v1.0.0) the zip file from the latest release and unzip it wherever you'd like. It's that simple! (Note, this program only works on Windows at the moment! Apologies.)
