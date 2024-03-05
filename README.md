@@ -12,7 +12,7 @@
 
 ## Requirements
 
-Java 17 or later, Windows OS, DMX to USB cable (obviously?)
+&nbsp;&nbsp;&nbsp;&nbsp;Java 17 or later, Windows OS, DMX to USB cable (obviously?)
 
 ## Installing
 
@@ -96,6 +96,9 @@ document.addEventListener("keyup", (event) => {
 
 Brian Dean Ullery - @nonzerocornet34 - [ullerbri000@gmail.com](mailto:ullerbri000@gmail.com)<br>
 Website: https://briandean.dev/
+
+## Donate
+&nbsp;&nbsp;&nbsp;&nbsp;This project took a lot of time and effort to create, and I don't even have enough money for a code signing certificate. So please, if you think this is neat and want to support me, feel free to donate at https://www.buymeacoffee.com/briandeanullery. Anything helps.
 
 [contributors-shield]: https://img.shields.io/github/contributors/NonzeroCornet/DMX4EVER.svg?style=for-the-badge
 [contributors-url]: https://github.com/NonzeroCornet/DMX4EVER/graphs/contributors
